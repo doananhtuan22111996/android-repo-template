@@ -17,7 +17,6 @@ class DemoActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             MaterialTheme {
-
             }
         }
     }

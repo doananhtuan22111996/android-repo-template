@@ -1,8 +1,8 @@
 [versions]
-corePlugins = "1.0.1"
+corePlugins = "1.0.2"
 coreDomain = "1.0.0"
 coreData = "1.0.0"
-coreCompose = "1.0.1"
+coreCompose = "1.0.4"
 
 [libraries]
 corePlugins = { group = "vn.core.libs", name = "plugins", version.ref = "corePlugins" }
